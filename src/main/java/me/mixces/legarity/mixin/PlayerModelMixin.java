@@ -13,10 +13,10 @@ public abstract class PlayerModelMixin extends HumanoidModel {
 		method = "translateRightArm",
 		at = @At(
 			value = "CONSTANT",
-			args = "floatValue = 1.0F"
+			args = "floatValue=1.0F"
 		)
 	)
 	private float legarity$mc72397fix(float original) {
-		return 0.5F;
+		return original / 2.0F;
 	}
 }
