@@ -10,7 +10,6 @@ import org.spongepowered.asm.mixin.Mixin;
 @Mixin(LocalClientPlayerEntity.class)
 public abstract class LocalClientPlayerEntityMixin extends ClientPlayerEntity {
 
-
 	public LocalClientPlayerEntityMixin(World world, GameProfile gameProfile) {
 		super(world, gameProfile);
 	}
