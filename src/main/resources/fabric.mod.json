@@ -3,7 +3,7 @@
 	"id": "legarity",
 	"version": "${version}",
 	"name": "Legarity",
-	"description": "Bug fix parity mod for Legacy Fabric!\nFixes:\nMC-577\nMC-67665\nMC-1349\nMC-255057\nMC-125204",
+	"description": "Bug fix parity mod for Legacy Fabric!\nFixes:\nMC-577\nMC-67665\nMC-1349\nMC-255057\nMC-125204\nMC-72397",
 	"authors": [
 		"Mixces"
 	],

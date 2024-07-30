@@ -10,6 +10,7 @@
     "KeyBindingAccessor",
     "LocalClientPlayerEntityMixin",
     "MinecraftMixin",
+    "PlayerModelMixin",
     "PlayerRendererMixin"
   ],
   "server": [
