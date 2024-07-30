@@ -5,6 +5,7 @@
   "compatibilityLevel": "JAVA_8",
   "client": [
     "ClientPlayerInteractionManagerMixin",
+    "HeldItemLayerMixin",
     "InventoryMenuScreenMixin",
     "KeyBindingAccessor",
     "LocalClientPlayerEntityMixin",
