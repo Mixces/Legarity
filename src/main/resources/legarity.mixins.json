@@ -7,7 +7,6 @@
     "ClientPlayerInteractionManagerMixin",
     "EntityRenderDispatcherMixin",
     "GameRenderMixin",
-    "HeldItemLayerMixin",
     "InventoryMenuScreenMixin",
     "KeyBindingAccessor",
     "LocalClientPlayerEntityMixin",
