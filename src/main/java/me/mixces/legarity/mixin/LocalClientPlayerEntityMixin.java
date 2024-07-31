@@ -15,6 +15,7 @@ public abstract class LocalClientPlayerEntityMixin extends ClientPlayerEntity {
 	}
 
 	/* MC-67665 Fix */
+	/* OptiFine already has this fix */
 	@Override
 	public Vec3d getRotationVec(float tickDelta) {
 		return getRotationVector(pitch, yaw);
