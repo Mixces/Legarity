@@ -9,6 +9,7 @@
     "GameRenderMixin",
     "HeldItemLayerMixin",
     "InventoryMenuScreenMixin",
+    "ItemRendererMixin",
     "KeyBindingAccessor",
     "LocalClientPlayerEntityMixin",
     "MinecraftMixin",
